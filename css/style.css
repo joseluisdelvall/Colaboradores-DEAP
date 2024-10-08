@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgba(41, 44, 49, 255);
+}
+
+header {
+    height: 10vh;
+    border-bottom: 1px solid white;
+    background-color: rgba(35, 37, 41, 255);
+} 
+
+main {
+    height: 80vh;
+    color: white;
+}
+
+footer {
+    height: 10vh;
+    border-top: 1px solid white;
+    background-color: rgba(35, 37, 41, 255);
+}
+
+main > h1 {
+    text-align: center;
+}
+
+main > p {
+    font-size: 1.5em;
+    margin-top: 0.3em;
+    text-align: center;
+}z
